@@ -150,4 +150,4 @@ fastapi-ai-api/
 - Validation is handled by Pydantic models defined in `app/schemas.py`.
 - If you update your `.env`, restart the app to apply changes.
   
-Best regards✨
+ Best regards✨

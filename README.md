@@ -144,6 +144,10 @@ fastapi-ai-api/
 
 ## Notes
 
+
+
 - The project uses `openai` with the responses API and `gpt-4.1-mini`.
 - Validation is handled by Pydantic models defined in `app/schemas.py`.
 - If you update your `.env`, restart the app to apply changes.
+  
+Best regards✨
